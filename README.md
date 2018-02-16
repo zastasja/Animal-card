@@ -1,1 +1,1 @@
-# uda-project-1
+# Animal card (simple html & css)
