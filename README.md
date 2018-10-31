@@ -1,1 +1,2 @@
-# Animal card (simple html & css)
+# Udacity Animal card (simple html & css)
+https://zastasja.github.io/Animal-card/
